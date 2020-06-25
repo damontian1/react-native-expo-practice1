@@ -1,0 +1,12 @@
+# react-native-expo-practice1
+
+### How to view iOS/Android app:
+1. go to https://expo.io/@killahb308/test1
+2. under "Request a link", enter your email
+3. go to https://apps.apple.com/app/apple-store/id982107779 and download expo client in app store
+4. open the email link and it will open the app on your phone
+
+### libraries used for this app: 
+- https://docs.expo.io/ 
+- https://reactnavigation.org/docs/getting-started 
+- https://github.com/vadimdemedes/tailwind-rn
